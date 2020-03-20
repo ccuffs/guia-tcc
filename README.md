@@ -26,6 +26,7 @@ Você pode ler o guia na pasta [docs](docs) desse repositório, ou online em [cc
 * [Cheguei no TCC, e agora?](docs/intro.md)
 * [Como fazer uma revisão bibliográfica](docs/revisao-bibliografica.md)
 * [Como trabalhar meu projeto no Overleaf](docs/overleaf.md)
+* [Aprenda Latex em 5 minutos](docs/latex-5min.md)
 
 ## Contribua
 
