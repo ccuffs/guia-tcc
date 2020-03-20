@@ -6,11 +6,11 @@ on:
       - dev
 env:
   BUILD_HOST: ci.uffs.cc
-  BUILD_WEB_DIRECTORY: /home/ccuffsci/ci.uffs.cc/template
-  BUILD_WEB_URL: https://ci.uffs.cc/template
+  BUILD_WEB_DIRECTORY: /home/ccuffsci/ci.uffs.cc/guia-tcc
+  BUILD_WEB_URL: https://ci.uffs.cc/guia-tcc
 jobs:
   build-deploy-audit:
-    name: Build, deploy and audit
+    name: Build and deploy
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
@@ -27,7 +27,6 @@ jobs:
         port: ${{ secrets.PORT }}
         script: |
           mkdir -p ${{ env.BUILD_WEB_DIRECTORY }}/${{ steps.extract_branch.outputs.branch }}/${{ github.sha }}
-          mkdir -p ${{ env.BUILD_WEB_DIRECTORY }}/${{ steps.extract_branch.outputs.branch }}/${{ github.sha }}/_report
     - name: Deploy site via SSH
       uses: garygrossgarten/github-action-scp@release
       with:
@@ -36,23 +35,6 @@ jobs:
         host: ${{ env.BUILD_HOST }}
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
-    - name: Audit site performance
-      uses: jakejarvis/lighthouse-action@master
-      with:
-        url: ${{ env.BUILD_WEB_URL }}/${{ steps.extract_branch.outputs.branch }}/${{ github.sha }}
-    - name: Upload audit results as an artifact
-      uses: actions/upload-artifact@master
-      with:
-        name: report
-        path: './report'
-    - name: Copy audit report to deploy server via SSH
-      uses: garygrossgarten/github-action-scp@release
-      with:
-        local: ${{ github.workspace }}/report
-        remote: ${{ env.BUILD_WEB_DIRECTORY }}/${{ steps.extract_branch.outputs.branch }}/${{ github.sha }}/_report/
-        host: ${{ env.BUILD_HOST }}
-        username: ${{ secrets.USERNAME }}
-        password: ${{ secrets.PASSWORD }}  
     - name: Summary
       run: |
         echo "Summary:"

@@ -1,62 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8">
-  <title>Document</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
-  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+    <meta charset="UTF-8">
+    <title>Guia de TCC - Ciência da Computação - UFFS</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="description" content="Guia para escrita de Trabalhos de Conclusão de Curso (TCC) do curso de Ciência da Computação da Universidade Federal da Fronteira Sul.">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
 </head>
+
 <body>
-  <div id="app"></div>
-  <script>
-    window.$docsify = {
-      name: 'Template',
-      repo: 'Dovyski/template',
-      coverpage: true,
+    <div id="app"></div>
+    <script>
+        window.$docsify = {
+            name: 'Guia TCC',
+            repo: 'ccuffs/guia-tcc',
+            coverpage: false,
 
-      search: 'auto', // default
+            search: 'auto', // default
 
-      search : [
-        '/',            // => /README.md
-        '/guide',       // => /guide.md
-        '/get-started', // => /get-started.md
-        '/zh-cn/',      // => /zh-cn/README.md
-      ],
+            search: [
+                '/', // => /README.md
+                '/guide', // => /guide.md
+                '/get-started', // => /get-started.md
+            ],
 
-      // complete configuration parameters
-      search: {
-        maxAge: 86400000, // Expiration time, the default one day
-        paths: [], // or 'auto'
-        placeholder: 'Type to search',
+            // complete configuration parameters
+            search: {
+                maxAge: 86400000, // Expiration time, the default one day
+                paths: [], // or 'auto'
+                placeholder: 'Digite para pesquisar',
 
-        // Localization
-        placeholder: {
-          '/zh-cn/': '搜索',
-          '/': 'Type to search'
-        },
+                // Localization
+                placeholder: {
+                    '/': 'Digite para pesquisar'
+                },
 
-        noData: 'No Results!',
+                noData: 'Nenhum resultado!',
 
-        // Localization
-        noData: {
-          '/zh-cn/': '找不到结果',
-          '/': 'No Results'
-        },
+                // Localization
+                noData: {
+                    '/': 'Nenhum resultado'
+                },
 
-        // Headline depth, 1 - 6
-        depth: 2,
+                // Headline depth, 1 - 6
+                depth: 2,
 
-        hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+                hideOtherSidebarContent: false, // whether or not to hide other sidebar content
 
-        // To avoid search index collision
-        // between multiple websites under the same domain
-        namespace: 'website-1',
-      }
-    }
-  </script>
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+                // Sidebar
+                loadSidebar: true,
+                subMaxLevel: 2,
+
+                // To avoid search index collision
+                // between multiple websites under the same domain
+                namespace: 'website-1',
+            }
+        }
+    </script>
+    <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+    <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
 </body>
+
 </html>
