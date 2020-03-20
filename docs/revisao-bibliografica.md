@@ -12,7 +12,7 @@ Para encontrar artigos, você precisa utilizar alguma base científica de busca,
 
 Esse tutorial utilizará o [Google Scholar](https://scholar.google.com) como base científica de busca.
 
-## 1. Acesse https://scholar.google.com
+## 1. Acesse o Google Scholar
 
 Ao acessar o [Google Scholar](https://scholar.google.com), há um campo de busca como no Google:
 
@@ -26,7 +26,7 @@ No exemplo abaixo, o termo **procedural content generation** foi buscado:
 
 Os artigos retornados pela busca estão de alguma forma relacionados com o que você buscou, seja porque contém o termo buscado no título ou em eu resumo/abstract.
 
-## 1.1 Como interpretar o resultado da busca
+### 1.1 Interpretando o resultado da busca
 
 Cada item retornado possui diversas informações, como o título, autores e parte do resumo:
 
@@ -45,6 +45,8 @@ Geralmente você está em busca de um artigo que tenha:
 * Onde foi publicado: meio no qual esse artigo foi publicado, que pode ser, por exemplo, uma conferência ou periódico (também chamado de revista ou journal).
 
 > **DICA:** para saber se uma conferência/periódico/journal é confiável, busque pelo nome dele no site [qualis.ic.ufmt.br](https://qualis.ic.ufmt.br) e confira o **Extrato CAPES** (também conhecido como **Qualis**). Os valores possíveis do Qualis são (na ordem do mais para o menos importante): A1, A2, B1, B2, B3, B4 e B5. Quando mais próximo do A1, mais consolidado (e confiável) é o veículo de publicação. Veículos com qualis B5 ou sem qualis geralmente não são muito estabelecidos ainda (pouco impacto científico). 
+
+### 1.2 Ferramentas úteis na busca
 
 Além dessa informações, o resultado contém alguns botões/links muito útis que podem ajudar no seu trabalho:
 
