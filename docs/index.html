@@ -21,18 +21,10 @@
             loadNavbar: true,
             subMaxLevel: 2,
 
-            search: 'auto', // default
-
-            search: [
-                '/', // => /README.md
-                '/guide', // => /guide.md
-                '/get-started', // => /get-started.md
-            ],
-
             // complete configuration parameters
             search: {
                 maxAge: 86400000, // Expiration time, the default one day
-                paths: [], // or 'auto'
+                paths: 'auto', // or 'auto'
                 placeholder: 'Digite para pesquisar',
 
                 // Localization
@@ -48,7 +40,7 @@
                 },
 
                 // Headline depth, 1 - 6
-                depth: 2,
+                depth: 3,
 
                 hideOtherSidebarContent: false, // whether or not to hide other sidebar content
 
