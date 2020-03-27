@@ -19,6 +19,8 @@
   - [Discussão](como-escrever-discussao.md)
   - [Resultados](como-escrever-resultados.md)
   - [Conclusão](como-escrever-conclusao.md)
+  - [Resumo](como-escrever-resumo.md)
+  - [Abstract](como-escrever-resumo.md)
 
 - Formulários e modelos
 

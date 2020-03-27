@@ -13,6 +13,8 @@
   - [Discussão](como-escrever-discussao.md)
   - [Resultados](como-escrever-resultados.md)
   - [Conclusão](como-escrever-conclusao.md)
+  - [Resumo](como-escrever-resumo.md)
+  - [Abstract](como-escrever-resumo.md)
 
 - Latex
   - [Como trabalhar meu projeto no Overleaf](overleaf.md)
