@@ -4,28 +4,28 @@ Esse site contém informações, materiais, guias e dicas para criação e condu
 
 > **IMPORTANTE:** está procurando o modelo Latex para escrever seu TCC? Ele já está pronto e disponível para uso no [Overleaf](https://overleaf.com). Acesse o projeto [modelo de TCC 1](https://www.overleaf.com/read/pbkfpzgjcdxw) ou [modelo de TCC 2](tcc2) (conforme seu caso), faça uma cópia desse projeto, e comece a trabalhar sem complicações. Se você nunca usou o [Overleaf](https://overleaf.com), leia [esse tutorial](overleaf.md).
 
-# Começando
-
-## 1. Inicie um projeto online no Overleaf
-
-Modelos para escrita do TCC estão disponíveis e pronetos para uso como projetos no [Overleaf](https://overleaf.com). Basta acessar o projeto, fazer uma cópia, e começe a trabalhar:
-
-* [Modelo do TCC 1 no Overleaf](https://www.overleaf.com/read/pbkfpzgjcdxw)
-* [Modelo do TCC 2 no Overleaf](https://www.overleaf.com/)
-
-## 2. Leituras importantes
+## Leituras importantes
 
 O textos abaixo irão ajudar em diferentes tarefas do seu TCC:
 
-* [Cheguei no TCC, e agora?](intro.md)
+* [Cheguei no TCC, e agora?](cheguei-no-tcc.md)
+* [O que escrever em cada seção/capítulo do TCC?](como-escrever.md)
 * [Como fazer uma revisão bibliográfica](revisao-bibliografica.md)
 * [Como trabalhar meu projeto no Overleaf](overleaf.md)
 * [Aprenda Latex em 5 minutos](latex-5min.md)
 
-# Links úteis
+## Materiais e modelos
 
-Abaixo está uma lista de links interessantes e projetos similares:
+Modelos para escrita do TCC estão disponíveis e prontos para uso como projetos no [Overleaf](https://overleaf.com). Basta acessar o projeto, fazer uma cópia, e começe a trabalhar:
 
+* [Modelo TCC 1 (Overleaf)](https://www.overleaf.com/read/pbkfpzgjcdxw)
+* [Modelo TCC 2 (Overleaf)](https://www.overleaf.com/)
+
+## Links úteis
+
+Abaixo está uma lista de links interessantes:
+
+* [Link para os currículos Lattes dos professores do curso](https://cc.uffs.edu.br/pessoas)
 * [Repositório Digital da UFFS de TCCs de Ciência da Computação](https://rd.uffs.edu.br/handle/prefix/67)
 * [uffstex](https://github.com/ccuffs/uffstex)
 * [Modelo do TCC 1 (Overleaf)](https://www.overleaf.com/read/pbkfpzgjcdxw)
