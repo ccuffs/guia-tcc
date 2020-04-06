@@ -25,12 +25,11 @@
 - Formulários e modelos
 
   - [Modelo TCC 1 (Overleaf)](https://www.overleaf.com/read/pbkfpzgjcdxw)
-  - [Modelo TCC 2 (Overleaf)](https://www.overleaf.com/)
+  - [Modelo TCC 2 (Overleaf)](https://www.overleaf.com/read/hxdzrzzdwkcs)
   - [Formulário de orientação](https://cc.uffs.edu.br)
   - [Gerência de TCC online](https://cc.uffs.edu.br)
 
 - Links diversos
 
-  - [Currículo Lattes dos professores](https://cc.uffs.edu.br/pessoas)
   - [Currículo Lattes dos professores](https://cc.uffs.edu.br/pessoas)
   - [Repositório Digital da UFFS (TCCs CC)](https://rd.uffs.edu.br/handle/prefix/67)

@@ -26,7 +26,7 @@
   - [Formatação de texto (negrito, itálico, etc)](latex-formatacao.md)
   - <hr />
   - [Modelo TCC 1 (Overleaf)](https://www.overleaf.com/read/pbkfpzgjcdxw)
-  - [Modelo TCC 2 (Overleaf)](https://www.overleaf.com/)
+  - [Modelo TCC 2 (Overleaf)](https://www.overleaf.com/read/hxdzrzzdwkcs)
 
 - Formulários e Sistemas
   - [Gerência de TCCs online](https://cc.uffs.edu.br)
