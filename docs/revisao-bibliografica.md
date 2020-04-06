@@ -1,6 +1,6 @@
 # Revisão bibliográfica
 
-A revisão bibliográfica, ou revisão do estado da arte, é o processo de conhecer e analisar os trabalhos científicos que trabalham com um mesmo assunto/problema que a sua pesquisa. Em linha gerais, é uma forma de saber o que (e como) os outros estão fazendo para resolver um problema.
+A revisão bibliográfica, ou revisão do estado da arte, é o processo de conhecer e analisar os trabalhos científicos que trabalham com um mesmo assunto/problema que a sua pesquisa. Em linhas gerais, é uma forma de saber o que (e como) os outros estão fazendo para resolver um problema.
 
 Fazer uma revisão bibliográfica significa ler vários artigos científicos para poder escrever sobre eles no seu TCC. Geralmente isso é feito em uma seção de _trabalhos relacionados_ (ou seja, trabalhos científicos parecidos ou *iguais* ao seu) ou na seção de [fundamentação teórica](fundamentacao-teorica.md).
 
@@ -40,15 +40,15 @@ Geralmente você está em busca de um artigo que tenha:
 
 * Alto número de citações (mais que zero, por exemplo): isso significa que esse é um trabalho relevante e que outros pesquisadores estão usando ele para fundamentar suas pesquisas. Muitas citações (acima de 200, por exemplo) indica um trabalho importante e consolidado.
 
-* Ano de publicação recente: quanto mais atual um trabalho, maior é a chance dele cobrir aspectos/problemas/tecnologias/teorias recentementes. Ser recente não é um indicativo necessário de qualidade. Um artigo _antigo_, por exemplo, com muitas citações, é indicativo de uma peça fundamental de teoria em alguma área, ex.: uma técnica/teoria que muitos usam.
+* Ano de publicação recente: quanto mais atual um trabalho, maior é a chance dele cobrir aspectos/problemas/tecnologias/teorias recentes. Ser recente não é um indicativo necessário de qualidade. Um artigo _antigo_, por exemplo, com muitas citações, é indicativo de uma peça fundamental de teoria em alguma área, ex.: uma técnica/teoria que muitos usam.
 
-* Onde foi publicado: meio no qual esse artigo foi publicado, que pode ser, por exemplo, uma conferência ou periódico (também chamado de revista ou journal).
+* Onde foi publicado: meio no qual esse artigo foi publicado, que pode ser, por exemplo, uma conferência ou periódico (também chamado de revista ou jornal).
 
-> **DICA:** para saber se uma conferência/periódico/journal é confiável, busque pelo nome dele no site [qualis.ic.ufmt.br](https://qualis.ic.ufmt.br) e confira o **Extrato CAPES** (também conhecido como **Qualis**). Os valores possíveis do Qualis são (na ordem do mais para o menos importante): A1, A2, B1, B2, B3, B4 e B5. Quando mais próximo do A1, mais consolidado (e confiável) é o veículo de publicação. Veículos com qualis B5 ou sem qualis geralmente não são muito estabelecidos ainda (pouco impacto científico). 
+> **DICA:** para saber se uma conferência/periódico/jornal é confiável, busque pelo nome dele no site [qualis.ic.ufmt.br](https://qualis.ic.ufmt.br) e confira o **Extrato CAPES** (também conhecido como **Qualis**). Os valores possíveis do Qualis são (na ordem do mais para o menos importante): A1, A2, B1, B2, B3, B4 e B5. Quando mais próximo do A1, mais consolidado (e confiável) é o veículo de publicação. Veículos com qualis B5 ou sem qualis geralmente não são muito estabelecidos ainda (pouco impacto científico). 
 
 ### 1.2 Ferramentas úteis na busca
 
-Além dessa informações, o resultado contém alguns botões/links muito útis que podem ajudar no seu trabalho:
+Além dessas informações, o resultado contém alguns botões/links muito úteis que podem ajudar no seu trabalho:
 
 ![](img/google-scholar-result-focus-detailed-tools.png)
 
@@ -60,7 +60,7 @@ O botão das "aspas" mostra as informações bibliográficas (de citação) do a
 
 ![](img/google-scholar-cite-detailed.png)
 
-Você pode consultar, por exemplo, o nome completo do veículo onde o artigo foi publicado. Além disso, você pode clicar nos links para exportar a refência bibliográfica. O formato BibTeX, por exemplo, é o formato utilizado pelo Latex.
+Você pode consultar, por exemplo, o nome completo do veículo onde o artigo foi publicado. Além disso, você pode clicar nos links para exportar a referência bibliográfica. O formato **BibTeX**, por exemplo, é o formato utilizado pelo Latex.
 
 > **DICA:** veja a página [Aprenda Latex em 5 minutos](latex-5min.md) para saber como importar e utilizar uma referência bibliográfica BibTeX.
 
@@ -74,7 +74,7 @@ A melhor forma de entender o que é uma string de busca é ver ela em ação. Im
 
 ![](img/google-scholar-results.png)
 
-O termo _Procedural Content Generation_ geralmente é abreviado como PCG, então precisamos cobrir isso também. Nesse caso, podemos usar parêntes e o operador _OR_ na string para garantir que _procedural content generation_ *ou* PCG serão encontrados juntamente com games:
+O termo _Procedural Content Generation_ geralmente é abreviado como PCG, então precisamos cobrir isso também. Nesse caso, podemos usar parênteses e o operador _OR_ na string para garantir que _procedural content generation_ *ou* PCG serão encontrados juntamente com _games_:
 
 ![](img/google-scholar-search-semi-complex.png)
 
@@ -82,13 +82,13 @@ Apenas escrever _procedural content generation_, porém, não garante que a busc
 
 ![](img/google-scholar-search-semi-complex2.png)
 
-Para garantir que um termo de várias palavras seja encontrado, você pode colocar o termo entre áspas duplas. O termo de busca passa a ser, então, _"procedural content generation"_:
+Para garantir que um termo de várias palavras seja encontrado, você pode colocar o termo entre aspas duplas. O termo de busca passa a ser, então, _"procedural content generation"_:
 
 ![](img/google-scholar-search-semi-complex3.png)
 
 E se você quiser procurar por geração procedural de conteúdo (e suas variações) no contexto de games, que também tem variações nas palavras? Alguém pode ter escrito _game_ ao invés de _games_ em um artigo, por exemplo.
 
-Nesse caso, usando a mesma lógica de antes, utilizam-se parêntes e o operador *OR* com os termos relacionados a games. Pode-se escrever, então, _games_ ou _game_:
+Nesse caso, usando a mesma lógica de antes, utilizam-se parênteses e o operador *OR* com os termos relacionados a games. Pode-se escrever, então, _games_ ou _game_:
 
 ![](img/google-scholar-search-semi-complex4.png)
 
@@ -102,7 +102,7 @@ Depois que você definiu uma boa string de busca junto ao seu orientador(a), é 
 
 Quanto mais artigos você ler, mais chances você tem de identificar autores importantes, trabalhos correlatos ao seu ou entre si. Uma forma eficiente de ler artigos em uma revisão bibliográfica é ler o abstract, a introdução e os resultados do artigo. Lendo essas seções, você tem uma boa ideia se o artigo em questão está ou não relacionado ao seu TCC. Se for relacionado, leia o artigo por completo. Se estiver minimamente relacionado, você pode guardar para ler depois ou utilizar como uma referência complementar. Se o artigo não estiver relacionado, descarte o artigo.
 
-> **DICA:** o importante para uma boa revisão bibliográfica é ter um visão mínima do campo. Pricipalemente **o que, como e os resultados** que outros tiveram. Faça um pequeno resumo de cada artigo relevante mencionamento exatamente isso: o que, como e os resultados obtidos pelos autores. Esse pequeno resumo pode ser colocado na íntegra no capítulo de _trabalhos relacionados_ do seu TCC.
+> **DICA:** o importante para uma boa revisão bibliográfica é ter uma visão mínima do campo. Principalemente **o que, como e os resultados** que outros tiveram. Faça um pequeno resumo de cada artigo relevante mencionamento exatamente isso: o que, como e os resultados obtidos pelos autores. Esse pequeno resumo pode ser colocado na íntegra no capítulo de _trabalhos relacionados_ do seu TCC.
 
 Identificando o que, como e quais resultados foram obtidos por outros pesquisadores, você pode posicionar o seu trabalho. Em outras palavras, você pode dizer o que é igual, o que é diferente, e o que é esperado acontecer. Uma metáfora simples para esse contexto é imaginar que você está "amarrando" seu trabalho: quanto mais artigos você leu, mais você consegue dizer o quão similar (ou diferente) eles são entre si e em relação ao seu trabalho; dessa forma, mais "amarrado a outros" e fundamentado é o seu trabalho.
 

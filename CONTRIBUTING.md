@@ -96,7 +96,7 @@ feedback da comunidade a respeito do que está sendo proposto.
 
 Issues que estão em processo de discussão devem receber o label **discussão**
 indicando que aquela issue precisa dos inputs e feedbacks dos membros da
-comunidade. Nós te encorajamos a participar o máximo possível mas fique atento
+comunidade. Nós te encorajamos a participar o máximo possível, mas fique atento
 ao nosso [código de conduta](./CODE_OF_CONDUCT.md) antes de realizar qualquer
 interação com os outros membros da comunidade.
 
@@ -108,7 +108,7 @@ um branch diferente de master implementando suas soluções. Para saber mais sob
 pull requests e como eles funcionam, veja
 [este link](https://help.github.com/articles/about-pull-requests/).
 
-Antes de abrir seu PR (pull request) certique-se que:
+Antes de abrir seu PR (pull request) certifique-se que:
 
 - O código realmente resolve um problema real (de preferência baseado em alguma
   issue levantada);
@@ -122,13 +122,13 @@ Antes de abrir seu PR (pull request) certique-se que:
 
 ### Outras formas de contribuir
 
-Se você não trabalha com código mas quer ajudar o projeto, existe muitas outras
+Se você não trabalha com código mas quer ajudar o projeto, existem outras
 formas de contribuir:
 
 - Ajude com a documentação do projeto;
 - Fale sobre o projeto nas suas redes sociais, blogs, etc. Espalhe a palavra;
 - Organize eventos e dê palestras sobre o projeto;
-- Crie material promocional como apresentações, screencasts, mídia para
+- Crie material promocional como apresentações, _screencasts_, mídia para
   compartilhamento em redes sociais, etc;
 - Viu alguma discussão que te interessa e onde você pode acrescentar mesmo sem
   conhecimento técnico? Não se acanhe e participe também nas issues do GitHub.

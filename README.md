@@ -14,7 +14,7 @@ Esse repositório contém informações, materiais, guias e dicas para criação
 
 ### 1. Inicie um projeto online no Overleaf
 
-Modelos para escrita do TCC estão disponíveis e pronetos para uso como projetos no [Overleaf](https://overleaf.com). Basta acessar o projeto, fazer uma cópia, e começe a trabalhar:
+Modelos para escrita do TCC estão disponíveis e prontos para uso como projetos no [Overleaf](https://overleaf.com). Basta acessar o projeto, fazer uma cópia, e comece a trabalhar:
 
 * [Modelo do TCC 1 no Overleaf](https://www.overleaf.com/read/pbkfpzgjcdxw)
 * [Modelo do TCC 2 no Overleaf](https://www.overleaf.com/)
@@ -30,7 +30,7 @@ Você pode ler o guia na pasta [docs](docs) desse repositório, ou online em [cc
 
 ## Contribua
 
-Sua ajuda é muito bem-vinda, independente da forma! Confira o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para conhecer todas as formas de contribuir com esse repositório projeto. Por exemplo, [sugerir uma nova funcionalidade](https://github.com/ccuffs/template/issues/new?assignees=&labels=&template=feature_request.md&title=), [reportar um problema/bug](https://github.com/ccuffs/template/issues/new?assignees=&labels=bug&template=bug_report.md&title=), [enviar um pull request](https://github.com/ccuffs/hacktoberfest/blob/master/docs/tutorial-pull-request.md), ou simplemente utilizar o projeto e comentar sua experiência.
+Sua ajuda é muito bem-vinda, independente da forma! Confira o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para conhecer todas as formas de contribuir com esse repositório projeto. Por exemplo, [sugerir uma nova funcionalidade](https://github.com/ccuffs/template/issues/new?assignees=&labels=&template=feature_request.md&title=), [reportar um problema/bug](https://github.com/ccuffs/template/issues/new?assignees=&labels=bug&template=bug_report.md&title=), [enviar um pull request](https://github.com/ccuffs/hacktoberfest/blob/master/docs/tutorial-pull-request.md), ou simplesmente utilizar o projeto e comentar sua experiência.
 
 ## Licença
 
