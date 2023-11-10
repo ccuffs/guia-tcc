@@ -27,7 +27,7 @@ Eai! Continuando na jornada do _TCC nota 10_, nesta seção você encontrará al
 
 ## Bônus: Audiobooks
 
-Se você curte audiobook, poderá acessar o *[LibriVox](https://librivox.org/)*
+Se você curte audiobook, poderá acessar o site *[LibriVox](https://librivox.org/)*
 
 #
 #
