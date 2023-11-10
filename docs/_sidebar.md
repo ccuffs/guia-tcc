@@ -6,6 +6,7 @@
 
 - Pesquisa
   - [Como fazer uma revisão bibliográfica](revisao-bibliografica.md)
+  
 
 - Como escrever
   - [Quais seções/capítulos preciso?](como-escrever.md)
@@ -33,3 +34,4 @@
 
   - [Currículo Lattes dos professores](https://cc.uffs.edu.br/pessoas)
   - [Repositório Digital da UFFS (TCCs CC)](https://rd.uffs.edu.br/handle/prefix/67)
+  - [Acervos, Bibliotecas e Bases de Dados](links-bibliotecas.md)
