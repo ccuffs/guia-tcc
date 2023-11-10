@@ -35,3 +35,4 @@ Se você curte audiobook, poderá acessar o site *[LibriVox](https://librivox.or
 
 > **Veja mais:** https://github.com/anabastos/awesome-pesquisa
 > https://github.com/gdcmarinho/awesome-project/blob/master/LINKS.md
+> https://www12.senado.leg.br/institucional/escoladegoverno/ed-superior-1/pesquisa-1/bases-de-dados-nacionais-e-internacionais
